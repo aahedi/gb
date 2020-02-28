@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "508074429531",
-    "firebase_url": "https://cline-4fe5c.firebaseio.com",
-    "project_id": "cline-4fe5c",
-    "storage_bucket": "cline-4fe5c.appspot.com"
+    "project_number": "854948956198",
+    "firebase_url": "https://koropak-92dfd.firebaseio.com",
+    "project_id": "koropak-92dfd",
+    "storage_bucket": "koropak-92dfd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:508074429531:android:972ba1b8974c1da0",
+        "mobilesdk_app_id": "1:854948956198:android:6fffd07393c2086b703ee7",
         "android_client_info": {
-          "package_name": "tokojs.com.app.cline"
+          "package_name": "com.koropak.co.id"
         }
       },
       "oauth_client": [
         {
-          "client_id": "508074429531-6dn1lfogct9v5njdkmqv0umb8chv7tu7.apps.googleusercontent.com",
+          "client_id": "854948956198-7nl5bupii1hrfb01ubqbtp6baia7dqub.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCybD0JYFCHorxZ2FlVWZfvPCvy1XvrFfU"
+          "current_key": "AIzaSyAz_umOa_CJXFyD7Z0aXoLcIQIrGmEZ50Q"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854948956198-7nl5bupii1hrfb01ubqbtp6baia7dqub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
