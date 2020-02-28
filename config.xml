@@ -52,6 +52,11 @@
 <plugin name="cordova-plugin-app-launcher"/>
 <plugin name="cordova-plugin-background-mode"/>
 <plugin name="cordova-plugin-android-permissions"/>
+ <!--Required for Push Notification -->
+<plugin name="cordova-plugin-firebase-lib"/>
+<plugin name="cordova-plugin-androidx"/>
+<plugin name="cordova-plugin-androidx-adapter"/>
+ <!-- -->
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
 <platform  name="ios">
