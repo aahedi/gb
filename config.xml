@@ -52,10 +52,10 @@
 <plugin name="cordova-plugin-app-launcher"/>
 <!--<plugin name="cordova-plugin-background-mode"/>-->
 <plugin name="cordova-plugin-android-permissions"/>
- <!--Required for Push Notification tutorial dari youtube 
+ <!--Required for Push Notification tutorial dari youtube -->
 <plugin name="cordova-plugin-firebase-lib"/>
 <plugin name="cordova-plugin-androidx"/>
-<plugin name="cordova-plugin-androidx-adapter"/>-->
+<plugin name="cordova-plugin-androidx-adapter"/>
 <!--Required for Push Notification tutorial https://stackoverflow.com/a/55047686 -->
 <plugin name="phonegap-plugin-push"/>
 <!--<plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
