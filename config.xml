@@ -90,7 +90,7 @@
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
     <resource-file src="google-services.json" target="app/google-services.json" />
-    <preference name="SplashMaintainAspectRatio" value="false"/>
+<preference name="SplashMaintainAspectRatio" value="false"/>
 </platform>
 <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect --ignore-gpu-blacklist "/>
 <platform name="android" >
@@ -109,5 +109,6 @@
 <config-file platform="android" parent="/manifest/application" mode="merge"> 
     <activity android:launchMode="singleTop" />
 </config-file>
+<edit-config file="res/values/strings.xml" mode="add" target="/resources"><string name="gcm_defaultSenderId">854948956198</string></edit-config>
 </widget>
 
