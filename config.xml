@@ -61,7 +61,7 @@
     <param name="SENDER_ID" value="854948956198" />
 </plugin>
 <plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
-<plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
+<!--<plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
 <plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />
  Cordova Firebase Messaging Plugin -->
 <plugin name="cordova-support-google-services" spec="https://github.com/cloudscapelabs/cordova-support-google-services.git"/>
