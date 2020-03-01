@@ -7,9 +7,6 @@
 <author>jasatoko.com</author>
 <content src="index.html"/>
 <preference name="android-build-tool" value="gradle" />
-<plugin name="phonegap-plugin-push" source="npm">
-    <param name="SENDER_ID" value="854948956198" />
-</plugin>
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 <preference name="AndroidExtraFilesystems" value="files,cache,sdcard,cache-external,files-external,assets,root,documents"/>
 <allow-intent href="http://*/*"/>
@@ -60,7 +57,9 @@
 <plugin name="cordova-plugin-androidx"/>
 <plugin name="cordova-plugin-androidx-adapter"/>
 <!--Required for Push Notification tutorial https://stackoverflow.com/a/55047686 -->
-<plugin name="phonegap-plugin-push"/>
+<plugin name="phonegap-plugin-push" source="npm">
+    <param name="SENDER_ID" value="854948956198" />
+</plugin>
 <plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
 <plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
 <plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />
