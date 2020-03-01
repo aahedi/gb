@@ -67,6 +67,7 @@
 <plugin name="cordova-support-google-services" spec="https://github.com/cloudscapelabs/cordova-support-google-services.git"/>
 <!--<plugin name="cordova-plugin-firebase-messaging" spec="https://github.com/chemerisuk/cordova-plugin-firebase-messaging.git"/>-->
 <plugin name="cordova-plugin-firebase-messaging" spec="https://github.com/blakgeek/cordova-plugin-firebase-messaging.git"/>
+<plugin name="cordova-plugin-simple-notification" spec="https://github.com/TheJKM/cordova-plugin-simple-notification.git"/>
  <!-- -->
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
