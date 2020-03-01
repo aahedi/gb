@@ -52,10 +52,15 @@
 <plugin name="cordova-plugin-app-launcher"/>
 <plugin name="cordova-plugin-background-mode"/>
 <plugin name="cordova-plugin-android-permissions"/>
- <!--Required for Push Notification -->
+ <!--Required for Push Notification tutorial dari youtube -->
 <plugin name="cordova-plugin-firebase-lib"/>
 <plugin name="cordova-plugin-androidx"/>
 <plugin name="cordova-plugin-androidx-adapter"/>
+<!--Required for Push Notification tutorial https://stackoverflow.com/a/55047686 -->
+<plugin name="phonegap-plugin-push" spec="2.1.3" />
+<plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
+<plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />
+<plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
  <!-- -->
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
