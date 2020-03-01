@@ -58,11 +58,14 @@
 <plugin name="cordova-plugin-androidx-adapter"/>
 <!--Required for Push Notification tutorial https://stackoverflow.com/a/55047686 -->
 <plugin name="phonegap-plugin-push"/>
-<plugin name="cordova-support-google-services" spec="https://github.com/chemerisuk/cordova-support-google-services.git"/>
-<plugin name="cordova-plugin-firebase-messaging" spec="https://github.com/chemerisuk/cordova-plugin-firebase-messaging.git"/>
 <plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
 <plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
 <plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />
+<!-- Cordova Firebase Messaging Plugin -->
+<plugin name="cordova-support-google-services" spec="https://github.com/chemerisuk/cordova-support-google-services.git"/>
+<plugin name="cordova-plugin-firebase-messaging" spec="https://github.com/chemerisuk/cordova-plugin-firebase-messaging.git"/>
+<plugin name="cordova-plugin-firebase-messaging" spec="https://github.com/blakgeek/cordova-plugin-firebase-messaging.git"/>
+<plugin name="cordova-plugin-fcm" spec="https://github.com/fechanique/cordova-plugin-fcm.git"/>
  <!-- -->
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
