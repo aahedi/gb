@@ -59,7 +59,7 @@
 <!--Required for Push Notification tutorial https://stackoverflow.com/a/55047686 -->
 <plugin name="phonegap-plugin-push"/>
 <plugin name="cordova-support-google-services"/>
-<!--<plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
+<!--<plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />-->
 <plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
 <plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />-->
  <!-- -->
