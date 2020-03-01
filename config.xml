@@ -28,7 +28,7 @@
 <plugin name="cordova-plugin-shake"/>
 <plugin name="cordova-plugin-video-thumbnail"/>
 <plugin name="cordova-plugin-device" spec="2.0.2"/>
-<plugin name="cordova-plugin-compat" spec="1.2.0"/>
+<!--<plugin name="cordova-plugin-compat" spec="1.2.0"/>-->
 <plugin name="cordova-plugin-file" spec="6.0.1"/>
 <plugin name="cordova-plugin-file-transfer" spec="1.7.1"/>
 <plugin name="cordova-plugin-inappbrowser" spec="3.0.0"/>
@@ -59,8 +59,8 @@
 <!--Required for Push Notification tutorial https://stackoverflow.com/a/55047686 -->
 <plugin name="phonegap-plugin-push"/>
 <!--<plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release.git" />
-<plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />-->
-<plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />
+<plugin name="cordova-android-play-services-gradle-release" spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release.git" />
+<plugin name="cordova-android-firebase-gradle-release" spec="https://github.com/dpa99c/cordova-android-firebase-gradle-release.git" />-->
  <!-- -->
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
